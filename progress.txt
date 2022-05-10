@@ -1,0 +1,4 @@
+tested with opencv , face detection works
+tested with dlib , face detection works but too low fps
+(After initializing detector and predictor variables at start
+-- fps is fine)
